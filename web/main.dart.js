@@ -34127,7 +34127,7 @@ s.cx.F(0,r>500)},
 $S:0}
 A.a1e.prototype={
 $1(a){var s=null
-return A.fm(!1,!0,A.ay(s,A.AS(A.dn(100),A.ay(s,A.f2("icons/menu.png",B.qA,25),B.i,s,30,s,B.yl,30)),s,s,s,s,B.ym,s),s,!0,s,s,s,s,s,s,s,s,s,new A.a1d(a),s,s,s,s,s)},
+return A.fm(!1,!0,A.ay(s,A.AS(A.dn(100),A.ay(s,A.f2("icons/menu.png",B.qA,25),B.i,s,30,s,B.yr,30)),s,s,s,s,B.yl,s),s,!0,s,s,s,s,s,s,s,s,s,new A.a1d(a),s,s,s,s,s)},
 $S:119}
 A.a1d.prototype={
 $0(){A.a7w(this.a).H_()},
@@ -34204,7 +34204,7 @@ l=A.ar(b).a3.Q
 l.toString
 l=A.aj(q,l.hu(A.a7(B.c.as(178.5),0,0,0),18),B.ah,s)
 m=A.dn(20)
-return A.iT(n,A.ay(s,A.c7(A.a([B.bk,o,B.G,l,B.G,A.uG(A.aj(p,A.aJ(s,s,B.i,s,s,s,s,s,s,s,s,16,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),j,k,B.yn,new A.bx(m,B.n),s),B.eb],h),B.v,B.x,B.y),B.kS,s,s,s,new A.ap(i,0,i,0),s))},
+return A.iT(n,A.ay(s,A.c7(A.a([B.bk,o,B.G,l,B.G,A.uG(A.aj(p,A.aJ(s,s,B.i,s,s,s,s,s,s,s,s,16,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),j,k,B.ym,new A.bx(m,B.n),s),B.eb],h),B.v,B.x,B.y),B.kS,s,s,s,new A.ap(i,0,i,0),s))},
 RT(){A.zk("https://github.com/asterion-finance")}}
 A.qA.prototype={
 I(a,b){var s=null,r="Put collateral and Earn",q="Both lenders and borrowers can earn AST (goveranance token) as interest",p=t.w,o=b.E(p).f.a.a*0.12,n=A.aj(r,$.a6_(),s,s),m=$.kA(),l=A.ay(s,s,m,s,2,s,s,480),k=A.ay(s,s,m,s,2,s,s,445),j=A.aj(q,A.aJ(s,s,s,s,s,s,s,s,s,s,s,18,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),i=A.hk("images/system_overall.png",s,B.aL,s,b.E(p).f.a.a*0.6),h=$.a8V(),g=this.gPK(),f=A.a1(h).j("au<1,h>"),e=t.p
@@ -34247,12 +34247,12 @@ PM(a){var s,r,q=null,p=A.aj(u.b,A.aJ(q,q,B.i,q,q,q,q,q,"Muli",q,q,75,q,B.eT,q,q,
 o=A.iX(A.aj(u.e,A.aJ(q,q,B.X.h(0,100),q,q,q,q,q,q,q,q,18,q,B.ap,q,q,!0,q,2,q,q,q,q,q,q),q,q),q,o.a.a/2)
 s=$.kA()
 r=A.dn(30)
-return A.c7(A.a([B.tl,p,B.G,o,B.F3,A.uG(A.aj("Get Started",A.aJ(q,q,$.kz(),q,q,q,q,q,q,q,q,20,q,B.w,q,q,!0,q,2.5,q,q,q,q,q,q),q,q),s,new A.Uw(a),B.yp,new A.bx(r,B.n),B.i),B.a5],t.p),B.br,B.x,B.y)},
+return A.c7(A.a([B.tl,p,B.G,o,B.F3,A.uG(A.aj("Get Started",A.aJ(q,q,$.kz(),q,q,q,q,q,q,q,q,20,q,B.w,q,q,!0,q,2.5,q,q,q,q,q,q),q,q),s,new A.Uw(a),B.yo,new A.bx(r,B.n),B.i),B.a5],t.p),B.br,B.x,B.y)},
 PN(a){var s,r,q=null,p=A.aj(u.b,A.aJ(q,q,B.i,q,q,q,q,q,q,q,q,28,q,B.O,q,q,!0,q,2,q,q,q,q,q,q),q,q),o=a.E(t.w).f
 o=A.iX(A.aj(u.e,A.aJ(q,q,B.X.h(0,100),q,q,q,q,q,q,q,q,16,q,q,q,q,!0,q,2,q,q,q,q,q,q),q,q),q,o.a.a*0.95)
 s=$.kA()
 r=A.dn(20)
-return A.c7(A.a([p,B.G,o,B.eb,A.uG(A.aj("Get Started",A.aJ(q,q,$.kz(),q,q,q,q,q,q,q,q,18,q,q,q,q,!0,q,2,q,q,q,q,q,q),q,q),s,new A.Ut(a),B.yo,new A.bx(r,B.n),B.i),B.a5],t.p),B.br,B.x,B.y)}}
+return A.c7(A.a([p,B.G,o,B.eb,A.uG(A.aj("Get Started",A.aJ(q,q,$.kz(),q,q,q,q,q,q,q,q,18,q,q,q,q,!0,q,2,q,q,q,q,q,q),q,q),s,new A.Ut(a),B.yn,new A.bx(r,B.n),B.i),B.a5],t.p),B.br,B.x,B.y)}}
 A.Uw.prototype={
 $0(){var s=0,r=A.a5(t.H),q=this
 var $async$$0=A.a6(function(a,b){if(a===1)return A.a2(b,r)
@@ -37200,7 +37200,7 @@ if(s)return a
 return A.acx(a,c)},
 PA(a,b,c,d){this.a.toString
 return null},
-I(d0,d1){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7=this,c8=null,c9=A.aaI(B.l5,B.yr,B.c.D(d1.E(t.w).f.c-1,0,1))
+I(d0,d1){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7=this,c8=null,c9=A.aaI(B.l5,B.yq,B.c.D(d1.E(t.w).f.c-1,0,1))
 c9.toString
 s=A.ar(d1)
 d1.E(t.xL)
@@ -37966,7 +37966,7 @@ k.push(new A.rR(1,B.yx,p,m))
 k.push(o)
 n=new A.Cu(A.c7(k,B.dt,B.x,B.b2),m)
 if(s!=null)n=A.bO(m,n,!1,m,!0,m,m,m,m,s,!0,m,m,m,!0,m,m,m,m)
-return new A.Bn(m,m,B.yq,B.t,this.fy,m,n,m)}}
+return new A.Bn(m,m,B.yp,B.t,this.fy,m,n,m)}}
 A.rv.prototype={}
 A.P5.prototype={
 $3(a,b,c){var s=new A.GW(this.b.a,new A.h7(this.a,null),null)
@@ -59656,19 +59656,19 @@ B.eN=new A.aF(75e3)
 B.yj=new A.aF(-38e3)
 B.ae=new A.ap(0,0,0,0)
 B.yk=new A.ap(0,20,0,20)
-B.yl=new A.ap(10,10,10,10)
 B.du=new A.ap(16,0,16,0)
-B.ym=new A.ap(20,0,0,0)
+B.yl=new A.ap(20,0,0,0)
 B.l2=new A.ap(20,20,20,20)
 B.l3=new A.ap(24,0,24,0)
 B.LO=new A.ap(24,20,24,24)
-B.yn=new A.ap(30,15,30,15)
-B.yo=new A.ap(30,20,30,20)
-B.yp=new A.ap(35,20,35,20)
+B.ym=new A.ap(30,15,30,15)
+B.yn=new A.ap(30,20,30,20)
+B.yo=new A.ap(35,20,35,20)
 B.eO=new A.ap(40,15,40,15)
-B.yq=new A.ap(40,24,40,24)
-B.yr=new A.ap(4,0,4,0)
+B.yp=new A.ap(40,24,40,24)
+B.yq=new A.ap(4,0,4,0)
 B.l4=new A.ap(4,4,4,4)
+B.yr=new A.ap(7,7,7,7)
 B.l5=new A.ap(8,0,8,0)
 B.bY=new A.ap(8,8,8,8)
 B.ys=new A.rI(null)
